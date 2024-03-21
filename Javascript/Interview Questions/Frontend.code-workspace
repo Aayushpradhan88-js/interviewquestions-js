@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../Git and GitHub"
+		},
+		{
+			"path": "../../Backend"
+		},
+		{
+			"path": "../../frontendJavaScript"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Express.js"
+	}
+}
