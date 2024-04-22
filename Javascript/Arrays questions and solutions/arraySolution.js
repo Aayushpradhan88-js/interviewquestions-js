@@ -17,7 +17,7 @@ function addtition(a,b) {
   if(typeof a !== "number" || typeof b !== "number") {
     return "Add the two numbers";
   }
-  return a+b
+  return a+b;
 }
 
 console.log(addtition(2,3));
