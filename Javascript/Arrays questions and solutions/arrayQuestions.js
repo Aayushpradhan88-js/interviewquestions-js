@@ -15,3 +15,21 @@
 
 // 6. Write a js program to create a word-meaning dictionary of 5 words.
 // Solution:-
+
+// 7. Given an array of likes with user IDs, return a unique list of users who liked a post.
+// const likes = [101, 102, 103, 101, 104, 102];
+
+// 8. Group Comments by Post ID:
+// Organize an array of comments by the post they belong to.
+// const comments = [
+//     { postId: 1, comment: 'Great post!' },
+//     { postId: 2, comment: 'Nice!' },
+//     { postId: 1, comment: 'Loved it!' }
+// ];
+
+// 9. Find the top 3 most frequently used hashtags from an array of posts.
+// const posts = [
+//     { id: 1, content: '#fun #travel #adventure' },
+//     { id: 2, content: '#fun #coding #javascript' },
+//     { id: 3, content: '#adventure #travel #coding' }
+// ];

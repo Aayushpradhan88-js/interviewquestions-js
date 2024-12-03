@@ -8,6 +8,8 @@ console.log(sumOfInitialNumber);
 //#Next method
 
 let digits = [4, 5, 6, 7, 8, 9];
+let manipulatoin = digits.sort((a, b) => a.localeCompare(b));
+console.log(manipulatoin)
 
 // let sum = digits.reduce((accumalator, currentValue) => {
 //     console.log(`acc: ${accumalator} and currVal: ${currentValue}`);
@@ -37,5 +39,4 @@ let sum2 = cart.reduce((price, product)  => price + product.price * product.quan
 
 console.log(`The sum of total price of the products is: ${sum2}`);
 
-let manipulatoin = digits.sort ();
-console.log(manipulatoin)
+
